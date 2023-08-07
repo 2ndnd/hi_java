@@ -12,6 +12,7 @@ public class Hi_java {
 		System.out.println("마지막잎새");
 		System.out.println("토큰실종사건..");
 		System.out.println();
+		System.out.println("...");
 	}
 
 }
